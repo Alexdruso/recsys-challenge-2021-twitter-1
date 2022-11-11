@@ -10,6 +10,7 @@
     <img src="https://i.imgur.com/mPb3Qbd.gif" width="180" />
   </a>
 </p>
+
 ## About the Challenge
 
 From the [Challenge](https://recsys-twitter.com/) website: 
